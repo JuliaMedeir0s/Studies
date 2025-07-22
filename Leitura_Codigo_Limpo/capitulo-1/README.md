@@ -9,7 +9,6 @@ Neste capítulo introdutório, somos apresentados à filosofia por trás do "có
 ## 📝 Conteúdo
 
 * **[Anotações detalhadas do Capítulo 1](anotacoes.md)**: Meus resumos, insights e pontos-chave sobre o que significa escrever código limpo e por que isso é crucial.
-* **[Exemplos Práticos](exemplo-pratico/)**: Uma coleção de exemplos de código que ilustram os conceitos discutidos, mostrando a diferença entre código "sujo" e "limpo".
 
 ---
 
