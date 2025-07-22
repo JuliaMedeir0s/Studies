@@ -27,6 +27,8 @@ Acompanhe meu progresso e explore os capítulos já estudados:
 
 ## 💡 Principais Aprendizados (em construção)
 
+- A importância da legibilidade e da intenção no código.
+- Funções pequenas e com uma única responsabilidade facilitam a manutenção.
 
 ---
 
