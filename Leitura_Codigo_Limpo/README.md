@@ -22,7 +22,6 @@ Acompanhe meu progresso e explore os capítulos já estudados:
 ### [Capítulo 1: Código Limpo](capitulo-1/README.md)
   * Introdução ao conceito de código limpo e a importância de ser um "artesão do software".
   * [Link para as anotações do Capítulo 1](capitulo-1/anotacoes.md)
-  * [Link para os exemplos práticos do Capítulo 1](capitulo-1/exemplo-pratico/)
       
 ---
 
